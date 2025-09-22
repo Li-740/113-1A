@@ -6,8 +6,8 @@
 - 運動
 
 ## 我最愛的網站
-[N](https://www.netflix.com/browse)
-![風景圖]（https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pexels.com%2Fzh-tw%2Fsearch%2F%25E9%25A2%25A8%25E6%2599%25AF%2F&psig=AOvVaw33KC792URYA3P8_bzHLWbh&ust=1758610334885000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNDO3bDl648DFQAAAAAdAAAAABAE）
+[Netflix](https://www.netflix.com/browse)
+(n.png)
 
 # 人生哲學
 “學”
